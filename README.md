@@ -1,0 +1,1 @@
+A Raspberry Pi–based WiFi survey tool used to analyze signal strength, coverage, and handover performance across McDonnell Douglas Hall. Using aircrack-ng and Python, we captured 194k+ measurements from 952 locations, identifying 98.6% handover coverage and zero dead zones. The system provides a low-cost, portable method for real-world WiFi infrastructure analysis.
